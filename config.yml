@@ -8,67 +8,66 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 
-googleAnalytics: UA-123-45
+googleAnalytics: G-V72CSQRBJN
 
 minify:
-    disableXML: true
-    minifyOutput: true
+  disableXML: true
+  minifyOutput: true
 
 params:
-    env: production # to enable google analytics, opengraph, twitter-cards and schema.
-    title: thesamosborne
-    description: "ExampleSite description"
-    author: Me
-    # author: ["Me", "You"] # multiple authors
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  title: thesamosborne
+  description: "Personal Site"
+  author: Me
 
-    images: ""
+  images: ""
 
-    ShowReadingTime: true
-    ShowShareButtons: true
-    comments: false
-    defaultTheme: auto
-    disableThemeToggle: false
-    disableSpecial1stPost: false
+  ShowReadingTime: true
+  ShowShareButtons: true
+  comments: false
+  defaultTheme: auto
+  disableThemeToggle: false
+  disableSpecial1stPost: false
 
-    assets:
-        favicon: ""
-        favicon16x16: ""
-        favicon32x32: ""
-        apple_touch_icon: ""
-        safari_pinned_tab: ">"
+  assets:
+    favicon: "/static/favicon.ico"
+    favicon16x16: ""
+    favicon32x32: ""
+    apple_touch_icon: ""
+    safari_pinned_tab: ">"
 
-    label:
-        text: "Home"
-        icon: /apple-touch-icon.png
-        iconHeight: 35
+  label:
+    text: "Home"
+    icon: /apple-touch-icon.png
+    iconHeight: 35
 
-    # profile-mode
-    profileMode:
-        enabled: true # needs to be explicitly set
-        title: Sam Osborne
-        imageUrl: 'https://i.insider.com/5e506642a9f40c0b63695504?width=1100&format=jpeg&auto=webp'
-        imageTitle: profile image
-        buttons:
-            - name: About
-              url: about
-            - name: Posts
-              url: posts
-            - name: Tags
-              url: tags
+  # profile-mode
+  profileMode:
+    enabled: true # needs to be explicitly set
+    title: Sam Osborne
+    imageUrl: "https://i.insider.com/5e506642a9f40c0b63695504?width=1100&format=jpeg&auto=webp"
+    imageTitle: profile image
+    buttons:
+      - name: About
+        url: about
+      - name: Posts
+        url: posts
+      - name: Tags
+        url: tags
 
-    # home-info mode
-    homeInfoParams:
-        Title: "Hi there \U0001F44B"
-        Content: Welcome to my blog
+  # home-info mode
+  homeInfoParams:
+    Title: "Hi there \U0001F44B"
+    Content: Welcome to my blog
 
-    socialIcons:
-        - name: twitter
-          url: "https://twitter.com/"
-        - name: stackoverflow
-          url: "https://stackoverflow.com"
-        - name: github
-          url: "https://github.com/"
+  socialIcons:
+    - name: twitter
+      url: "https://twitter.com/"
+    - name: stackoverflow
+      url: "https://stackoverflow.com"
+    - name: github
+      url: "https://github.com/"
 
-    analytics:
-        google:
-            SiteVerificationTag: "XYZabc"
+  analytics:
+    google:
+      SiteVerificationTag: "G-V72CSQRBJN"
