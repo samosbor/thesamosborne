@@ -21,7 +21,7 @@ params:
     author: Me
     # author: ["Me", "You"] # multiple authors
 
-    images: "<link or path of image for opengraph, twitter-cards>"
+    images: ""
 
     ShowReadingTime: true
     ShowShareButtons: true
@@ -31,11 +31,11 @@ params:
     disableSpecial1stPost: false
 
     assets:
-        favicon: "<link / abs url>"
-        favicon16x16: "<link / abs url>"
-        favicon32x32: "<link / abs url>"
-        apple_touch_icon: "<link / abs url>"
-        safari_pinned_tab: "<link / abs url>"
+        favicon: ""
+        favicon16x16: ""
+        favicon32x32: ""
+        apple_touch_icon: ""
+        safari_pinned_tab: ">"
 
     label:
         text: "Home"
