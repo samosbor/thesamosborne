@@ -1,4 +1,4 @@
-baseURL: "http://thesamosborne.com/"
+baseURL: "https://thesamosborne.com/"
 title: thesamosborne
 paginate: 5
 theme: hugo-PaperMod
