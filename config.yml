@@ -8,7 +8,7 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 
-googleAnalytics: G-W6XSF4M9C2
+googleAnalytics: UA-185393343-1
 
 minify:
   disableXML: true
@@ -70,4 +70,4 @@ params:
 
   analytics:
     google:
-      SiteVerificationTag: "G-W6XSF4M9C2"
+      SiteVerificationTag: "UA-185393343-1"
