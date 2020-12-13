@@ -25,7 +25,7 @@ params:
   ShowReadingTime: true
   ShowShareButtons: true
   comments: false
-  defaultTheme: auto
+  defaultTheme: dark
   disableThemeToggle: false
   disableSpecial1stPost: false
 
@@ -62,11 +62,11 @@ params:
 
   socialIcons:
     - name: twitter
-      url: "https://twitter.com/"
+      url: "https://twitter.com/thesamosborne"
     - name: stackoverflow
       url: "https://stackoverflow.com"
     - name: github
-      url: "https://github.com/"
+      url: "https://github.com/samosbor"
 
   analytics:
     google:
