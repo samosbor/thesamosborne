@@ -3,7 +3,7 @@ title: "About"
 date: 2020-12-12T11:30:03+00:00
 weight: 1
 aliases: ["/about"]
-tags: ["about, contact"]
+tags: ["personal"]
 author: "Sam Osborne"
 showToc: false
 TocOpen: false

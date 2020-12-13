@@ -45,7 +45,7 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: Sam Osborne
-    imageUrl: "https://i.insider.com/5e506642a9f40c0b63695504?width=1100&format=jpeg&auto=webp"
+    imageUrl: "/apple-touch-icon.png"
     imageTitle: profile image
     buttons:
       - name: About
@@ -61,10 +61,10 @@ params:
     Content: Welcome to my blog
 
   socialIcons:
-    - name: twitter
-      url: "https://twitter.com/thesamosborne"
-    - name: stackoverflow
-      url: "https://stackoverflow.com"
+    - name: email
+      url: "mailto:sam.osborne159@gmail.com"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/thesamosborne/"
     - name: github
       url: "https://github.com/samosbor"
 
