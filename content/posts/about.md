@@ -11,10 +11,23 @@ draft: false
 hidemeta: false
 disableShare: false
 cover:
-  image: "https://i.insider.com/5e506642a9f40c0b63695504?width=1100&format=jpeg&auto=webp"
+  image: ""
   alt: ""
   caption: ""
   relative: false
 comments: false
 ---
 
+My name is Sam
+In first grade I found my brother’s Gameboy. 
+In second grade I played Smash 64. 
+In third grade I got a GameCube for Christmas. 
+In fourth grade I found addictinggames.com. 
+In fifth grade I beat a Guitar Hero song on expert. 
+In sixth grade I snuck out to play Halo 2 with friends. 
+In seventh grade I discovered Xbox live. 
+In eighth grade I made rank 30 in swat.
+In ninth grade I transitioned to Call of Duty. 
+In tenth grade I got a graphics card for Christmas. 
+In eleventh grade I got my first Android phone. 
+In twelfth grade I took an AP Computer Science class. 
