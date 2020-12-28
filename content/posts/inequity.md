@@ -19,7 +19,7 @@ comments: false
 ---
 
 
-I'm done with school. I graduated with a degree in computer science from a well-known university. I have a job waiting for me at a FAANG company. If things continue this way I will never struggle for money.
+I'm done with school. I graduated with a degree in computer science from a well-known university. I have a job waiting for me at a FAANG company. If things continue this way, I will never struggle for money.
 
 What did I do to deserve this?
 

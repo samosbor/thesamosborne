@@ -22,6 +22,6 @@ Hi,
 
 I'm Sam. I get anxious about what other people in my industry are doing that I'm not doing. So, this blog is to help me reduce my anxiety. 
 
-I wont promise anything but I've got a couple write ups in my head that I'd like to get into the world. 
+I won't promise anything, but I've got a couple write ups in my head that I'd like to get into the world. 
 
 Here is a picture of me yesterday: ![Me](/images/me.jpg)

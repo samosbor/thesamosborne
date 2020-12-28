@@ -18,29 +18,29 @@ cover:
 comments: false
 ---
 
-My name is Sam
+My name is Sam.
 
-In first grade I found my brother’s Gameboy. 
+In first grade, I found my brother’s Gameboy. 
 
-In second grade I played Smash 64. 
+In second grade, I played Smash 64. 
 
-In third grade I got a GameCube for Christmas. 
+In third grade, I got a GameCube for Christmas. 
 
-In fourth grade I found addictinggames.com. 
+In fourth grade, I found addictinggames.com. 
 
-In fifth grade I beat a Guitar Hero song on expert. 
+In fifth grade, I beat a Guitar Hero song on expert. 
 
-In sixth grade I snuck out to play Halo 2 with friends. 
+In sixth grade, I snuck out to play Halo 2 with friends. 
 
-In seventh grade I discovered Xbox live. 
+In seventh grade, I discovered Xbox Live. 
 
-In eighth grade I made rank 30 in swat.
+In eighth grade, I made rank 30 in SWAT.
 
-In ninth grade I transitioned to Call of Duty. 
+In ninth grade, I transitioned to Call of Duty. 
 
-In tenth grade I got a graphics card for Christmas.
+In tenth grade, I got a graphics card for Christmas.
 
-In eleventh grade I got my first Android phone. 
+In eleventh grade, I got my first Android phone. 
 
 In twelfth grade I took an AP Computer Science class. 
 
