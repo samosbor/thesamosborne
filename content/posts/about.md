@@ -44,3 +44,4 @@ In eleventh grade, I got my first Android phone.
 
 In twelfth grade I took an AP Computer Science class. 
 
+![](https://i.imgur.com/GxOjwsO.jpg)
