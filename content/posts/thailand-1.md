@@ -21,7 +21,7 @@ comments: false
 
 Welcome back to Asia!!!!!!!!!! 
 
-{{< rawhtml >}} <img src="https://i.imgur.com/ksxEcof.jpg" width="300px" class="floatingright"/> {{< /rawhtml >}}   
+{{< rawhtml >}} <img src="https://i.imgur.com/ksxEcof.jpg" class="floatingright"/> {{< /rawhtml >}}   
    
 After not knowing whether we were going to make it to Thailand for a couple weeks we finally made it. It only took like 17 covid tests, 52 emails back and forth with the Thai consulate, and four changed plane tickets. Not bad. After all that we have been rewarded with the luxury of staying in a small quarantine hotel room for 16 days.
 
