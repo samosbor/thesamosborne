@@ -1,6 +1,6 @@
 baseURL: "https://www.thesamosborne.com/"
 title: thesamosborne
-paginate: 5
+paginate: 10
 theme: hugo-PaperMod
 
 enableRobotsTXT: true

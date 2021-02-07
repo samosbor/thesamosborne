@@ -1,0 +1,18 @@
+@media screen and (min-width: 720px) {
+    .floatingright {
+        float: right;
+        margin-left: 20px;
+        margin-bottom: 20px
+    }
+    .floatingleft {
+        float: left;
+        margin-right: 20px;
+        margin-bottom: 20px
+    }
+}
+
+@media screen and (max-width: 720px) {
+    img {
+        width: 100%;
+    }
+}
