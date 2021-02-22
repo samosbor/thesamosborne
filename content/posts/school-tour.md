@@ -18,7 +18,7 @@ cover:
 comments: false
 ---
 
-Welcome to Imperial Pichit Bilingual School!  
+Welcome to Imperial Phichit Bilingual School!  
 
 ![](https://i.imgur.com/FzMtO3d.jpg)
 
