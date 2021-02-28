@@ -59,6 +59,14 @@ Thailand is great. Teaching is great. I’m learning a lot and having a good tim
   
 <br/><br/>
 
+![](https://i.imgur.com/PkViFNd.jpg)
+
+These are supposed to be elephant ears lmao  
+
+![](https://i.imgur.com/yffQqIL.jpg)
+
+Very cute kids  
+
 ![](https://i.imgur.com/zhTopQ6.jpg)  
 
 The stickers flow at the Imperial School  
@@ -81,7 +89,7 @@ We took a weekend trip to see this temple
 
 ![](https://i.imgur.com/ViXwWDE.jpg)  
 
-They call it the glass temple because of all the ceramic shards  
+They call it the glass temple because of all the ceramic shards embedded in the walls  
 
 ![](https://i.imgur.com/LB4BrcN.jpg)  
 
