@@ -20,6 +20,12 @@
 {{- if .Site.Params.analytics.google.SiteVerificationTag }}
 <meta name="google-site-verification" content="{{ .Site.Params.analytics.google.SiteVerificationTag }}" />
 {{- end}}
+{{- if .Site.Params.analytics.yandex.SiteVerificationTag }}
+<meta name="yandex-verification" content="{{ .Site.Params.analytics.yandex.SiteVerificationTag }}" />
+{{- end}}
+{{- if .Site.Params.analytics.bing.SiteVerificationTag }}
+<meta name="msvalidate.01" content="{{ .Site.Params.analytics.bing.SiteVerificationTag }}" />
+{{- end}}
 <!-- Styles -->
 {{- $common := (resources.Match "css/*.css") | resources.Concat "assets/css/common.css" }}
 {{- $extended := (resources.Match "css/extended/*.css") | resources.Concat "assets/css/extended.css" }}
@@ -29,10 +35,10 @@
 
 {{- if not .Site.Params.assets.disableFingerprinting }}
 {{- $stylesheet := $stylesheet | fingerprint -}}
-<link href="{{ $stylesheet.Permalink }}" integrity="{{ $stylesheet.Data.Integrity }}" rel="preload stylesheet"
+<link href="{{ $stylesheet.RelPermalink }}" integrity="{{ $stylesheet.Data.Integrity }}" rel="preload stylesheet"
     as="style">
 {{- else}}
-<link href="{{ $stylesheet.Permalink }}" rel="preload stylesheet" as="style">
+<link href="{{ $stylesheet.RelPermalink }}" rel="preload stylesheet" as="style">
 {{- end}}
 <!-- Search -->
 {{- if (eq .Layout `search`) -}}
@@ -41,12 +47,10 @@
 {{- $fusejs := resources.Get "js/fuse.js" }}
 {{- if not .Site.Params.assets.disableFingerprinting }}
 {{- $search := (slice $fusejs $fastsearch ) | resources.Concat "assets/js/search.js" | minify | fingerprint }}
-<script defer src="{{ $search.Permalink }}" rel="preload" as="script" onload="loadSearch();"
-    integrity="{{ $search.Data.Integrity }}">
-</script>
+<script defer src="{{ $search.RelPermalink }}" onload="loadSearch();" integrity="{{ $search.Data.Integrity }}"></script>
 {{- else}}
 {{ $search := (slice $fusejs $fastsearch ) | resources.Concat "assets/js/search.js" | minify }}
-<script defer src="{{ $search.Permalink }}" rel="preload" as="script" onload="loadSearch();"></script>
+<script defer src="{{ $search.RelPermalink }}" onload="loadSearch();"></script>
 {{- end}}
 {{- end -}}
 
@@ -66,7 +70,6 @@
   sender('442a47b4073006')
 </script>
 
-
 <!-- Favicons -->
 <link rel="icon" href="{{- .Site.Params.assets.favicon | default "favicon.ico" | absURL -}}">
 <link rel="icon" type="image/png" sizes="16x16" href="
@@ -84,7 +87,7 @@
 {{- range .AlternativeOutputFormats -}}
 <link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink | safeURL }}">
 {{ end -}}
-{{- range .Translations -}}
+{{- range .AllTranslations -}}
 <link rel="alternate" hreflang="{{- .Lang -}}" href="{{- .Permalink -}}" />
 {{ end }}
 {{- partial "extend_head.html" . -}}
