@@ -62,7 +62,7 @@ params:
 
   socialIcons:
     - name: email
-      url: "mailto:sam.osborne159@gmail.com"
+      url: posts/subscribe
     - name: linkedin
       url: "https://www.linkedin.com/in/thesamosborne/"
     - name: github
