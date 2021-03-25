@@ -61,8 +61,7 @@ params:
     Content: Welcome to my blog
 
   socialIcons:
-    - name: email
-      url: posts/subscribe
+    # There is an email icon hidden in the social_icons.html partial. It was opening in a new page which i didnt want
     - name: linkedin
       url: "https://www.linkedin.com/in/thesamosborne/"
     - name: github
