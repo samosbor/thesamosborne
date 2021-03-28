@@ -12,7 +12,7 @@ author: "Sam Osborne"
 
 I would have never hired myself. Bless the people who threw me a bone and let me learn to be a programmer at their expense.
 
-After sophomore year of my CS program, I was looking around for a job that would put my years (two is still plural) of programming "experience" to work. I thought that by going to school and half paying attention in my classes that counted as experience. I was wrong. The first two years of college did not at prepare me to work on a real dev team as I would soon find out. 
+After sophomore year of my CS program, I was looking around for a job that would put my years (two is still plural) of programming "experience" to work. I thought that by going to school and half paying attention in my classes that counted as experience. I was wrong. The first two years of college did not at all prepare me to work on a real dev team as I would soon find out. 
 
 Luckily, I had a friend, Kaden, who I had previously worked with in tech support, who now worked at a small-ish software company. He was willing to refer me to his company as an intern and I got called in for an interview a couple days later. I had failed a couple of development interviews previously but with a little bit of pre-coaching from Kaden I was able to pass the online screener and the in-person interview. 
 
