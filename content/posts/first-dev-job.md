@@ -33,10 +33,6 @@ I think that becoming a programmer is a bit of a chicken and egg story. It’s h
 
 I was extremely fortunate to land an internship position at a company that could pull me into the loop of becoming a professional developer. The first months were the steepest learning curve I had ever, and probably will ever, have to face in my career. Eventually I started being able to contribute and feel productive. I made a lot of friends during my internship. Also, because literally everyone at the company was more experienced than me, they were and are all great mentor resources for the rest of my career. I’m grateful for Kaden and Dave and Steve and everyone else at SimpleNexus for giving me a chance and giving my career a great launching point. Thanks!
 
--Sam
+-Sam  
 
-
-
-
-
-
+{{< rawhtml >}} <div class="sender-form-field" data-sender-form-id="kmn016jtbk8dvdlywpd"></div> {{< /rawhtml >}}

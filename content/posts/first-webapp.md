@@ -121,4 +121,6 @@ I never really finished the site after the semester ended. I had a **Stripe** in
 
 ![](https://i.imgur.com/8xKuKAG.png)
 
-*Thats a lot of resources for one project!*
+*Thats a lot of resources for one project!*  
+
+{{< rawhtml >}} <div class="sender-form-field" data-sender-form-id="kmn016jtbk8dvdlywpd"></div> {{< /rawhtml >}}
