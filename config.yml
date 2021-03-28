@@ -52,8 +52,8 @@ params:
         url: about
       - name: Posts
         url: posts
-      - name: Tags
-        url: tags
+      - name: Subscribe
+        url: posts/subscribe
 
   # home-info mode
   homeInfoParams:
