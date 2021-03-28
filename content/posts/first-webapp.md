@@ -83,7 +83,7 @@ stages:
 I later learned that, while some large companies might want to deploy their static Vue site like this, I definitely did not need to. I could have just dropped my compiled HTML files on some server or used any number of simple resources for hosting static sites (eg. Github Pages, Netlify). I did learn a lot about containers and continuous integration though!
 
 ### Database
-**Azure MySQL Server** works reall well. I love how easy it is to setup a SQL database in Azure and connect to it from anywhere. It’s nice to have someone else manage the server and keep all that out of my code base. I don’t love the cost of this service. It’s by far the most expensive part of my website every month at $15. I would not personally pay for this, but with my free Azure credit it was no big deal. 
+**Azure MySQL Server** works really well. I love how easy it is to setup a SQL database in Azure and connect to it from anywhere. It’s nice to have someone else manage the server and keep all that out of my code base. I don’t love the cost of this service. It’s by far the most expensive part of my website every month at $15. I would not personally pay for this, but with my free Azure credit it was no big deal. 
 
 ### WordPress site
 I set up a **WordPress** site as a separate web app on Azure App Service. This thing gave me so much trouble, and I gave up on it. The WordPress site would go down randomly, and it was really slow when it was up. I would recommend using a different WordPress service or a full VM instance that you can play with. WordPress in an Azure App Service gets a 0/10 from me. All that remains of the WordPress site is this screenshot of the landing page:
@@ -93,7 +93,7 @@ I set up a **WordPress** site as a separate web app on Azure App Service. This t
 ### Data Collection
 I use a variety of technologies to get data and make it searchable on my site. For scraping I use a software called **Mozenda**. I used to work there back in college and still have a free account. Mozenda has a feature where you can scrape a website and then dump the data to an **Azure Storage Blob Container** as a .csv file.  
 
-After scraping the data I had to get it into my database, so I setup an asynchronous web function through **Azure Functions**. My function got triggered whenever it detected a new data file in my storage container. From there it would extract the data from the .csv, transform it to fit my database schema, then load it line-by-line into my database. I thought this pipeline of data was so cool but I later learned that Extract, Transform, Load (ETL) is a [really common thing](https://en.wikipedia.org/wiki/Extract,_transform,_load). I still think its cool anyway. Here is the bulk of the Azure Function:  
+After scraping the data I had to get it into my database, so I setup an asynchronous web function through **Azure Functions**. My function got triggered whenever it detected a new data file in my storage container. From there it would extract the data from the .csv, transform it to fit my database schema, then load it line-by-line into my database. I thought this pipeline of data was so cool but I later learned that Extract, Transform, Load (ETL) is a [really common thing](https://en.wikipedia.org/wiki/Extract,_transform,_load). I still think it's cool anyway. Here is the bulk of the Azure Function:  
 
 ```javascript
 // Grab .csv file from blob container -- *Extract
@@ -116,7 +116,7 @@ conn.query(sql, [bulkRows], (err, results, fields) => {
 ### Domain
 You can buy domains with free Azure credit! I was shocked by this. **App Service Domains** support a few TLDs including com, net, co.uk, org, nl, in, biz, org.uk, and co.in. They automate SSL certs for you too for all your HTTPS needs. Not the most robust service, but free is free!
 
-I never really finished the site after the semester ended. I had a **Stripe** integration almost complete but then I lost interest. Turns out that this exact idea had been done by a friend of a friend (Can't actually find that site, but its out there somewhere). Also, I was browsing Hacker News one day and saw a [site with full text search of 400M US Court Cases](https://news.ycombinator.com/item?id=25150702). That made me feel a little inadequate. Maybe one day I'll come back and make a ton of money, but probably not. Either way, it was fun and I learned a lot about building web applications.
+I never really finished the site after the semester ended. I had a **Stripe** integration almost complete but then I lost interest. Turns out that this exact idea had been done by a friend of a friend (Can't actually find that site, but it's out there somewhere). Also, I was browsing Hacker News one day and saw a [site with full text search of 400M US Court Cases](https://news.ycombinator.com/item?id=25150702). That made me feel a little inadequate. Maybe one day I'll come back and make a ton of money, but probably not. Either way, it was fun and I learned a lot about building web applications.
 
 
 ![](https://i.imgur.com/8xKuKAG.png)
