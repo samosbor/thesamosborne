@@ -11,7 +11,7 @@ author: "Sam Osborne"
 Microsoft has a program for all engineer employees to get some free Azure credit to play with. Having been with Microsoft for two summer internships I have accumulated two separate accounts with $150 of credit/month each. Growing up pinching pennies, I am not one to let anything free go to waste, so for the past couple years I have been using my Azure credit for some fun stuff. 
 
 {{< rawhtml >}} 
-  <div class="freeAzureHeader">
+  <div class="freeAzureHeaderSpecial">
     <h3>1. NextCloud Personal Cloud Storage <img src="https://i.imgur.com/oYfhob0.png"/></h3>
   </div>
 {{< /rawhtml >}} 
@@ -21,7 +21,7 @@ Microsoft has a program for all engineer employees to get some free Azure credit
 - **Virtual Machine**: 
 Ubuntu 18 LTS on a VM with 2 vCPUs and 8gb of ram. I also added a data disk with 500gb of the cheapest HDD storage. It took some time to set up everything. The tutorials that were most helpful were [this one from NextCloud](https://docs.nextcloud.com/server/latest/admin_manual/installation/source_installation.html) about installing on Linux and [this one from Microsoft](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/attach-disk-portal) on getting the data disk attached to the VM in the right place.  
 
-I used my NextCloud setup for a couple of weeks and it worked great! I would definitely recommend trying it out. The whole server cost was about $90/month, so it was well within my $150 allotment. Ultimately, I felt a little nervous about having all my data on a platform that I could potentially mess up and lose everything. Also, Microsoft 365 with 1tb of storage is only $15/year for employees, so I decided to go with that.  
+I used my NextCloud setup for a couple of weeks, and it worked great! I would definitely recommend trying it out. The whole server cost was about $90/month, so it was well within my $150 allotment. Ultimately, I felt a little nervous about having all my data on a platform that I could potentially mess up and lose everything. Also, Microsoft 365 with 1tb of storage is only $15/year for employees, so I decided to go with that.  
 
 {{< rawhtml >}} 
   <div class="freeAzureHeader">
@@ -86,7 +86,7 @@ Training costs a lot. Can you see where in this graph we train our models?
 
 The past 2 months we have actually been over our $150 limit and had to spend our own money \**gasp*\*. Microsoft has successfully turned my freeloading around and made some money off me. Cheeky. 
 
-- **Inferenceing**: After training our models, we put them on an Azure Virtual Machine to make inferences about the stock market. For this VM we use Windows Server instead of Linux because it was easier to just log in, install PyCharm, and run everything the same as we do locally. I’m sure there is a better way to do this, maybe with async functions, but I couldn’t figure out how to get our multi-gigabyte model files to deploy nicely. For now the VM is expensive but it works. 
+- **Inferencing**: After training our models, we put them on an Azure Virtual Machine to make inferences about the stock market. For this VM we use Windows Server instead of Linux because it was easier to just log in, install PyCharm, and run everything the same as we do locally. I’m sure there is a better way to do this, maybe with async functions, but I couldn’t figure out how to get our multi-gigabyte model files to deploy nicely. For now the VM is expensive but it works. 
 
 - **Web app**: VueJS and Node again. I’ve gotten pretty comfortable with this setup and was able to reuse some components from Patient Preview. I simplified my CI/CD though. The back-end is manually deployed to an Azure Web App and the front-end is actually using Netlify. Netlify is just so user friendly and makes domain and SSL management a piece of cake. I have moderately high hopes for Azure’s upcoming [Static Web Apps](https://azure.microsoft.com/en-us/services/app-service/static/) offering but currently Netlify is just better. 
 
