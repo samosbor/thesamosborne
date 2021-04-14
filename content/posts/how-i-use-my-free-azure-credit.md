@@ -97,3 +97,5 @@ That’s about it so far. I have no idea how long my free credits will last but 
 If you have any free cloud provider credits lying around, I highly recommend using them. I’ve learned a ton in the process and you might too.  
 
 {{< rawhtml >}} <div class="sender-form-field" data-sender-form-id="kmn016jtbk8dvdlywpd"></div> {{< /rawhtml >}}
+
+Subscribe for very infrequent updates about what I'm up to.
