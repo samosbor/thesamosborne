@@ -20,6 +20,18 @@
     margin-bottom: -10px
 }
 
+@media screen and (min-width: 720px) {
+    .freeAzureHeaderSpecial h3 {
+        line-height: 40px;
+    }
+    .freeAzureHeaderSpecial img {
+        display: inline;
+        margin-left: 10px;
+        height: 40px;
+        margin-bottom: -10px;
+    }
+}
+
 @media screen and (max-width: 720px) {
     .freeAzureHeaderSpecial h3 {
         line-height: 40px;
@@ -34,4 +46,38 @@
 
 div.sender-form-field > div > form > div:nth-child(3) {
     display: none;
+}
+
+.sub-button {
+    flex-shrink: 0;
+    margin-top: 0;
+    padding: 10px 22px;
+    min-width: 148px;
+    height: 54px;
+    background: var(--primary);
+    border: 1px solid var(--primary);
+    border-radius: 0 5px 5px 0;
+    color: var(--theme);
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.sub-email {
+    background: var(--theme);
+    color: var(--primary);
+    display: inline-block;
+    padding: 10px;
+    height: 54px;
+    border: 1px solid var(--primary);
+    border-right-width: 0;
+    border-radius: 5px 0 0 5px;
+    font-size: 16px;
+}
+
+.sub-email:-webkit-autofill {
+    -webkit-text-fill-color: var(--primary);
+}
+
+.sub-form {
+    display: flex;
 }

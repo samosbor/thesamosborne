@@ -35,4 +35,4 @@ I was extremely fortunate to land an internship position at a company that could
 
 -Sam  
 
-{{< rawhtml >}} <div class="sender-form-field" data-sender-form-id="kmn016jtbk8dvdlywpd"></div> {{< /rawhtml >}}
+{{< subscribe-tech >}}

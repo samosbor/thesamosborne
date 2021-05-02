@@ -12,4 +12,4 @@ Email me at {{< rawhtml >}} <a href="mailto:sam@thesamosborne.com">sam@thesamosb
 
 Or stay up to date by subscribing below
 
-{{< rawhtml >}} <div class="sender-form-field" data-sender-form-id="46fd1ad2f8af0ae2jXS"></div> {{< /rawhtml >}}
+{{< subscribe-personal >}}

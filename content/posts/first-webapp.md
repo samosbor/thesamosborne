@@ -123,4 +123,4 @@ I never really finished the site after the semester ended. I had a **Stripe** in
 
 *Thats a lot of resources for one project!*  
 
-{{< rawhtml >}} <div class="sender-form-field" data-sender-form-id="kmn016jtbk8dvdlywpd"></div> {{< /rawhtml >}}
+{{< subscribe-tech >}}

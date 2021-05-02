@@ -48,4 +48,4 @@ Three sushis for a dollar. I think I'm allergic though, I always throw up whenev
 
 Hello friends
 
-{{< rawhtml >}} <div class="sender-form-field" data-sender-form-id="kmn016jtbk8dvdlywpd"></div> {{< /rawhtml >}}
+{{< subscribe-personal >}}
