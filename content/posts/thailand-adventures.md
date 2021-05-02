@@ -49,6 +49,8 @@ The pictures sell our island vacation better than I could with words so here’s
 {{< figure link="https://i.imgur.com/4Zu0fAH.jpg">}}
 {{< figure link="https://i.imgur.com/MChAIAG.jpg">}}
 {{< figure link="https://i.imgur.com/5sppVPV.jpg">}}
+
+{{< figure link="https://i.imgur.com/mp9r0RI.jpg">}}
 {{< /gallery >}}
 
 ### V. Surf Skate
@@ -66,3 +68,7 @@ Apparently, some travelling salesman came through our obscure town with a ton of
 Thailand continues to be good to us. If you'd like to recieve very infrequent updates about my time here you can subscribe below.
 
 {{< rawhtml >}} <div class="sender-form-field" data-sender-form-id="46fd1ad2f8af0ae2jXS"></div> {{< /rawhtml >}}
+
+![](https://i.imgur.com/q5jnvIJ.jpg)
+
+Hello friends
