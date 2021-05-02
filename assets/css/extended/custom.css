@@ -44,10 +44,6 @@
     }
 }
 
-div.sender-form-field > div > form > div:nth-child(3) {
-    display: none;
-}
-
 .sub-button {
     flex-shrink: 0;
     margin-top: 0;
