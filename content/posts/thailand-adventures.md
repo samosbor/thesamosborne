@@ -6,6 +6,8 @@ weight: 1
 aliases: []
 tags: ["blog", "personal", "thailand"]
 author: "Sam Osborne"
+cover:
+  image: "https://i.imgur.com/YMJliHw.jpg"
 ---
 
 ### I. The Night Train

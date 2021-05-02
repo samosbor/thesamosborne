@@ -21,6 +21,8 @@ params:
   author: Me
 
   images: ""
+  cover:
+    hidden: true
 
   ShowReadingTime: true
   ShowShareButtons: true
