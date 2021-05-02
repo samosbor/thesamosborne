@@ -69,6 +69,8 @@ Thailand continues to be good to us. If you'd like to recieve very infrequent up
 
 {{< rawhtml >}} <div class="sender-form-field" data-sender-form-id="46fd1ad2f8af0ae2jXS"></div> {{< /rawhtml >}}
 
+{{< rawhtml >}}<br></br>{{< /rawhtml >}}
+
 ![](https://i.imgur.com/q5jnvIJ.jpg)
 
 Hello friends
