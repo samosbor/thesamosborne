@@ -6,6 +6,8 @@ weight: 1
 aliases: []
 tags: ["blog", "personal", "thailand"]
 author: "Sam Osborne"
+cover:
+  image: "https://i.imgur.com/PiHGxWs.jpg"
 ---
 
 ### Intro to Asia  
@@ -26,7 +28,12 @@ Every time I taught, Atom would try to make the class all about programming or c
 
 One time I needed help soldering a little pollution sensor that I was building, so Atom and his tutor took one of their lesson days to set it up and solder it for me. Here is a cool timelapse of that:  
 
-![]()
+{{< rawhtml >}}
+  <video width="100%" height="400" autoplay>
+    <source src="https://i.imgur.com/Er8PsQf.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+  </video>
+{{< /rawhtml >}} 
 
 I told Atom to not forget me when he is rich and famous and if he ever wants a referral to work at Microsoft, I would gladly hook him up.  
 
@@ -41,7 +48,7 @@ One of the earlier days, Kaitlyn and I were jogging around the soccer pitch on t
 
 When I told them we were leaving, him and his friends got me some going away Phichit United merch. I never learned his name until that last day when I told him to add me on Facebook, but we were friends nonetheless.  
 
-![]()
+![](https://i.imgur.com/MjnJyEq.jpg)  
 
 #### Little Tennis Kids  
 
@@ -51,9 +58,11 @@ Picha, Author, Prab, Pran, and their parents became our best friends in Thailand
 
 We will miss our friends we made. It was hard to say goodbye. But it felt good to know that we could make such strong friendships in such a short amount of time, even across language and cultural barriers.  
 
-![]()
+![](https://i.imgur.com/PiHGxWs.jpg)
 
-![]()
+![](https://i.imgur.com/ivVzxHX.jpg)
+
+![](https://i.imgur.com/VqXAZXn.jpg)  
 
 ### Saying Goodbye  
 
@@ -65,6 +74,7 @@ This blog post is a small step in my mourning process. Thank you for reading and
 
 {{< subscribe-personal >}}
 
-![]()
+![](https://i.imgur.com/Rvt2Kjw.jpg)
 
-![]()
+Hello friends  
+![](https://i.imgur.com/gPUvNYR.jpg)
