@@ -29,7 +29,7 @@ Every time I taught, Atom would try to make the class all about programming or c
 One time I needed help soldering a little pollution sensor that I was building, so Atom and his tutor took one of their lesson days to set it up and solder it for me. Here is a cool timelapse of that:  
 
 {{< rawhtml >}}
-  <video width="100%" height="400" autoplay>
+  <video width="100%" height="400" autoplay loop>
     <source src="https://i.imgur.com/Er8PsQf.mp4" type="video/mp4">
   Your browser does not support the video tag.
   </video>
