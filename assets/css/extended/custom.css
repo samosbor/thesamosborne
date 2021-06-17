@@ -77,3 +77,8 @@
 .sub-form {
     display: flex;
 }
+
+/* This is normally 16px font but its just a little small for me */
+.post-content h4 {
+    font-size: 18px
+}
