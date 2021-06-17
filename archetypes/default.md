@@ -6,5 +6,7 @@ weight: 1
 aliases: []
 tags: ["blog"]
 author: "Sam Osborne"
+cover:
+  image: ""
 ---
 
