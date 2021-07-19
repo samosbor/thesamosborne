@@ -17,8 +17,8 @@ minify:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: thesamosborne
-  description: "Personal Site"
-  author: Me
+  description: "Sam's Blog"
+  author: Sam
 
   images: ""
   cover:
@@ -59,7 +59,7 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Hi there \U0001F44B"
+    Title: "Hello friends \U0001F44B"
     Content: Welcome to my blog
 
   socialIcons:
