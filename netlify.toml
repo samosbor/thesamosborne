@@ -3,3 +3,7 @@
   to = "https://www.youtube.com/watch?v=eWOGVXu0Igo"
   status = 301
   force = true
+
+[context.production.environment]
+  HUGO_VERSION = "0.85.0"
+  HUGO_ENV = "production"
