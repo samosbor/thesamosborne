@@ -1,5 +1,5 @@
 ---
-title: "Free VPNs in 9 different countries"
+title: "Free VPNs in 9 Different Countries"
 date: 2021-11-08T17:27:35-08:00
 draft: false
 weight: 1
