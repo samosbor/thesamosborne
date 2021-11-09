@@ -26,6 +26,7 @@ params:
 
   ShowReadingTime: true
   ShowShareButtons: true
+  ShowCodeCopyButtons: true
   comments: false
   defaultTheme: dark
   disableThemeToggle: false
