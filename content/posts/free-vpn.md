@@ -19,10 +19,10 @@ No worries, I have a subscription to Nord VPN and they have servers in the UK. I
 
 I read their help page and they have some VPN tracking software in place that seems like it blocked most of Nord’s IP addresses already.  
 
-I wondered if the BBC would block Azure IPs. So, I made a virtual machine in the Azure UK region and logged into it. I went to BBC from the virtual machine, and it worked perfectly. The BBC didn’t care about blocking traffic from an Azure data center. 
+I wondered if the BBC would block IP addresses from a big cloud provider. So, I made a virtual machine in the Azure UK region and logged into it. I went to BBC from the virtual machine, and it worked perfectly. The BBC didn’t care about blocking traffic from an Azure data center. 
 This meant that if I could route my traffic through a UK Azure data center, the BBC would think I enjoy tea and crumpets and let me watch all their shows.  
 
-I looked up the best self-hosted VPN software and Wireguard is the only thing anyone is talking about right now. So, I made a new small Linux Virtual Machine and installed the Wireguard docker image on it. I downloaded the config file to my local PC and turned on the VPN connection. Bam:  
+I looked up the best self-hosted VPN software and Wireguard is apparently the cool kid in that space right now. So, I made a new small Linux Virtual Machine and installed the Wireguard docker image on it. I downloaded the connection config file to my local PC and turned on the VPN connection. Bam:  
 
 ![](https://i.imgur.com/XMQ9D8M.png)  
 
@@ -31,7 +31,7 @@ I am now British
 Azure has more than just the UK region though. They have regions in a dozen countries, and it would be cool to set up VPNs in other regions too. 
 I was halfway into setting up my Singapore VPN when my hand got tired and I thought, I am lazy. I had heard about a thing called Terraform. It is a kind of programming language that sets up cloud infrastructure like virtual machines automatically. Pretty perfect for setting up multiple identical machines, just in different regions. I’d never used Terraform before, but I read some tutorials and picked up the basics.  
 
-I didn’t want to have to reinstall Wireguard and Docker and a few other things every time I created a new virtual machine, so I would need to make a custom image (blueprint) for my new virtual machines to clone from. I already had one working virtual machine with Wireguard set up in the UK, so I used the Azure “capture” feature to create a custom image from that existing machine. Once I had the custom image to clone from, I wrote two Terraform files to automate the process of deploying VPNs in as many of the Azure regions as I want.  
+I didn’t want to have to reinstall Wireguard and Docker and a few other things every time I created a new virtual machine, so I would need to make a custom image (blueprint) for my new virtual machines to clone from. I already had one working virtual machine with Wireguard set up in the UK, so I used the Azure “capture” feature to create a custom image from that existing machine. Once I had the custom image to clone from, I wrote two Terraform files to automate the process of deploying virtual machines with VPN software in as many of the Azure regions as I want.  
 
 First, the main file where I declare my Azure credentials and some variables, including the list of every region I want to use:  
 
