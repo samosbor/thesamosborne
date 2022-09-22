@@ -10,7 +10,7 @@ cover:
   image: ""
 ---
 Apparently the BBC doesn’t let you watch their TV shows if you’re not in the UK. I was trying to watch *This Country* but I was greeted with this prohibiting banner:  
-![Imgur](https://everything.azureedge.net/blog/g3BJ4zR.png)
+![](https://everything.azureedge.net/blog/g3BJ4zR.png)
 ![](https://everything.azureedge.net/blog/jJU8Gnj.png)
 
 No worries, I have a subscription to Nord VPN and they have servers in the UK. I switched my location to the UK and reloaded the page. No luck:  
@@ -221,9 +221,9 @@ resource "azurerm_linux_virtual_machine" "myterraformvm" {
 These Terraform scripts create nine virtual machines, all running Wireguard VPN software to let me pretend I am from a different country. 
 I can connect to any of them from my phone or my desktop whenever I want.  
 
-![Imgur](https://everything.azureedge.net/blog/wjryL6ul.jpg)
+{{< rawhtml >}} <img src="https://everything.azureedge.net/blog/wjryL6u.jpg" width="290"/> {{< /rawhtml >}}
 
-![Imgur](https://everything.azureedge.net/blog/Bu57ZR7.png)
+![](https://everything.azureedge.net/blog/Bu57ZR7.png)
 
 And its all free! (*if you have free Azure credit… its actually like $8/month/VM lmao clickbait*)
 
