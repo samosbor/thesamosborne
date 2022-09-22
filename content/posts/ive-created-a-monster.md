@@ -20,31 +20,31 @@ Well, I didn't realize it then, but I had created a monster. The next day as soo
 
 Thailand is great. The kids are cute. We are having fun.  
 
-![](https://i.imgur.com/9WiM5xq.jpg)  
+![](https://everything.azureedge.net/blog/9WiM5xq.jpg)  
 
 Me and the boys  
 
-![](https://i.imgur.com/xSLNas8.jpg)
+![](https://everything.azureedge.net/blog/xSLNas8.jpg)
 
 It's sweaty out there  
 
-![](https://i.imgur.com/61XWSAg.jpg)
+![](https://everything.azureedge.net/blog/61XWSAg.jpg)
 
 I paid this lady to walk on me  
 
-![](https://i.imgur.com/ZMKBi9h.jpg)
+![](https://everything.azureedge.net/blog/ZMKBi9h.jpg)
 
 On a Tuk Tuk  
 
-![](https://i.imgur.com/LxgDAO2.jpg)
+![](https://everything.azureedge.net/blog/LxgDAO2.jpg)
 
 Home
 
-![](https://i.imgur.com/1v2M9L2.jpg)
+![](https://everything.azureedge.net/blog/1v2M9L2.jpg)
 
 Three sushis for a dollar. I think I'm allergic though, I always throw up whenever I eat like 80 sushis.  
 
-![](https://i.imgur.com/AOSO3P9.jpg)
+![](https://everything.azureedge.net/blog/AOSO3P9.jpg)
 
 Hello friends
 

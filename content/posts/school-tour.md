@@ -20,27 +20,27 @@ comments: false
 
 Welcome to Imperial Phichit Bilingual School!  
 
-![](https://i.imgur.com/FzMtO3d.jpg)
+![](https://everything.azureedge.net/blog/FzMtO3d.jpg)
 
 Please come inside  
 
-![](https://i.imgur.com/3v76Nul.jpg)  
+![](https://everything.azureedge.net/blog/3v76Nul.jpg)  
 
 Here we have our swimming pool and our kindergarten building  
 
-![](https://i.imgur.com/0Z8e2u7.jpg)  
+![](https://everything.azureedge.net/blog/0Z8e2u7.jpg)  
 
 Our swimming pool is not quite as shallow as you'd expect  
 
-![](https://i.imgur.com/XnDIT2R.jpg)  
+![](https://everything.azureedge.net/blog/XnDIT2R.jpg)  
 
 This is the front door of the kindergarten building  
 
-![](https://i.imgur.com/SfAmfDI.jpg)  
+![](https://everything.azureedge.net/blog/SfAmfDI.jpg)  
 
 Our Christmas tree stays up year round  
 
-![](https://i.imgur.com/FcnL9Dc.jpg)  
+![](https://everything.azureedge.net/blog/FcnL9Dc.jpg)  
 
 We have many small children walking around most of the time  
 
@@ -48,50 +48,50 @@ We have many small children walking around most of the time
 
 The basketball court is by the pool  
 
-![](https://i.imgur.com/QxOpuzN.jpg)  
+![](https://everything.azureedge.net/blog/QxOpuzN.jpg)  
 
 And a genuine playground  
 
-![](https://i.imgur.com/p9MTlrE.jpg)  
+![](https://everything.azureedge.net/blog/p9MTlrE.jpg)  
 
 Next, we have our soccer field and the elementary building  
 
-![](https://i.imgur.com/vXAf0st.jpg)  
+![](https://everything.azureedge.net/blog/vXAf0st.jpg)  
 
 Here is the front door  
 
-![](https://i.imgur.com/lrAhmUw.jpg)  
+![](https://everything.azureedge.net/blog/lrAhmUw.jpg)  
 
 A nice monk is waiting to greet you  
 
-![](https://i.imgur.com/54G2dl4.jpg)  
+![](https://everything.azureedge.net/blog/54G2dl4.jpg)  
 
 Each of two floors has three large classrooms
 
-![](https://i.imgur.com/6W2N69O.jpg)  
+![](https://everything.azureedge.net/blog/6W2N69O.jpg)  
 
 Behind the elementary building you will find the kitchen and cafeteria  
 
-![](https://i.imgur.com/vtzwpfS.jpg)  
+![](https://everything.azureedge.net/blog/vtzwpfS.jpg)  
 
 The cafeteria  
 
-![](https://i.imgur.com/zUSIF5I.jpg)  
+![](https://everything.azureedge.net/blog/zUSIF5I.jpg)  
 
 Further back is the teacher dormitory  
 
-![](https://i.imgur.com/Pt402RT.jpg)  
+![](https://everything.azureedge.net/blog/Pt402RT.jpg)  
 
 The bathroom area has six stalls with showers and toilets
 
-![](https://i.imgur.com/hdf8n81.jpg)  
+![](https://everything.azureedge.net/blog/hdf8n81.jpg)  
 
 The bathroom stalls are adequate  
 
-![](https://i.imgur.com/zBYnIJ4.jpg)  
+![](https://everything.azureedge.net/blog/zBYnIJ4.jpg)  
 
 Kaitlyn and I share a large room with two bunkbeds pushed together  
 
-![](https://i.imgur.com/KYlcpff.jpg)  
+![](https://everything.azureedge.net/blog/KYlcpff.jpg)  
 
 That is our school. It is pretty nice for Thailand and very nice for a small town like Phichit. Tuition is ~1000/month. Let me know if you want an application for your kid.

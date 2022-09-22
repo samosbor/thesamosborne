@@ -7,7 +7,7 @@ aliases: []
 tags: ["blog", "personal", "thailand"]
 author: "Sam Osborne"
 cover:
-  image: "https://i.imgur.com/bZxQdcB.jpg"
+  image: "https://everything.azureedge.net/blog/bZxQdcB.jpg"
 ---
 
 A video adventure

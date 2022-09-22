@@ -27,7 +27,7 @@ comments: false
 
 There we were, minding our own business when they decided to take what was not theirs. The bugs smugly walked right through the crack in our screen glass door and declared our room theirs.  
 
-![](https://i.imgur.com/9FFnA4k.gif)
+![](https://everything.azureedge.net/blog/9FFnA4k.gif)
 
 Okay, we got bugs in our room.  
 
@@ -37,23 +37,23 @@ I knew we couldn’t just slap them all with the back of a flip-flop, so I calle
 
 There is an app that they use here in Thailand called Line. It’s a messaging app and we had to download it when we got to the hotel. The government medical staff that monitors the covid testing at our hotel has an account on Line that I was able to message. I messaged them that we had bugs in our room, and they were a little more sympathetic than the front desk staff. It only took them 7 messages and a cool half hour to send 2 dudes up with a can of bug spray.  
 
-![](https://i.imgur.com/Hw8gJnO.jpg)
+![](https://everything.azureedge.net/blog/Hw8gJnO.jpg)
 
 When they saw the magnitude of the problem the medical staff guys were able to convince the hotel staff that we should move rooms. At first I was sad to move rooms and then I realized I was probably just suffering from a weird sort of Stockholm syndrome and decided that it would be good to have a change of scenery. So, with the help of our friends from the Thai government, we grabbed our suitcases and moved them all the way across the hall. How exciting. We even got a new view!  
 
-![](https://i.imgur.com/LU0GYvP.gif)
+![](https://everything.azureedge.net/blog/LU0GYvP.gif)
 
 And a new yellow wall and abstract painting!  
 
-![](https://i.imgur.com/LzaaQCL.jpg)
+![](https://everything.azureedge.net/blog/LzaaQCL.jpg)
 
 It took us a solid hour when we got to the new room to empty all our bags and flush out all the straggling bugs. This is just half of the first bag!   
 
-![](https://i.imgur.com/42IySJy.jpg)
+![](https://everything.azureedge.net/blog/42IySJy.jpg)
 
 Well, it was a good adventure and some good practice at being flexible. That’s the takeaway. I should work on some politician’s spin team like Tom Haverford in Parks and Rec. I’d be good at it.
 
 -Sam
 
-![](https://i.imgur.com/uTE2w7L.jpg)
+![](https://everything.azureedge.net/blog/uTE2w7L.jpg)
 Hello friends

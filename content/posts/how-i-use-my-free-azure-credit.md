@@ -12,7 +12,7 @@ Microsoft has a program for all engineer employees to get some free Azure credit
 
 {{< rawhtml >}} 
   <div class="freeAzureHeaderSpecial">
-    <h3>1. NextCloud Personal Cloud Storage <img src="https://i.imgur.com/oYfhob0.png"/></h3>
+    <h3>1. NextCloud Personal Cloud Storage <img src="https://everything.azureedge.net/blog/oYfhob0.png"/></h3>
   </div>
 {{< /rawhtml >}} 
 
@@ -25,7 +25,7 @@ I used my NextCloud setup for a couple of weeks, and it worked great! I would de
 
 {{< rawhtml >}} 
   <div class="freeAzureHeader">
-    <h3>2. Patient Preview <img src="https://i.imgur.com/LSCs5Dm.png"/></h3>
+    <h3>2. Patient Preview <img src="https://everything.azureedge.net/blog/LSCs5Dm.png"/></h3>
   </div>
 {{< /rawhtml >}}
 
@@ -42,7 +42,7 @@ Check out the [blog post](/posts/first-webapp) or check out what’s left of [pa
 
 {{< rawhtml >}} 
   <div class="freeAzureHeader">
-    <h3>3. Minecraft Server <img src="https://i.imgur.com/aUCZhrz.png"/></h3>
+    <h3>3. Minecraft Server <img src="https://everything.azureedge.net/blog/aUCZhrz.png"/></h3>
   </div>
 {{< /rawhtml >}}
 
@@ -54,7 +54,7 @@ I learned a lot with this project, and I didn’t even scratch the surface of wh
 
 {{< rawhtml >}} 
   <div class="freeAzureHeader">
-    <h3>4. AirMessage Server <img src="https://i.imgur.com/ZfzbQV2.png"/></h3>
+    <h3>4. AirMessage Server <img src="https://everything.azureedge.net/blog/ZfzbQV2.png"/></h3>
   </div>
 {{< /rawhtml >}}
 
@@ -70,7 +70,7 @@ After all the setup, I sent one glorious iMessage to my wife to prove that I cou
 
 {{< rawhtml >}} 
   <div class="freeAzureHeader">
-    <h3>5. Tealeaf <img src="https://i.imgur.com/NwRWcS2.png"/></h3>
+    <h3>5. Tealeaf <img src="https://everything.azureedge.net/blog/NwRWcS2.png"/></h3>
   </div>
 {{< /rawhtml >}} 
 
@@ -78,11 +78,11 @@ A friend came to me with an idea to predict the stock market using deep learning
 
 - **Machine learning**: For training all our models we used Azure Machine Learning Studio. Most of it wasn’t through the UI, we mostly used their [python SDK](https://docs.microsoft.com/en-us/python/api/overview/azure/ml/?view=azure-ml-py). First we provisioned a training cluster with GPUs and then connected to it when training our models. It took us a few tries to get this right. We ended up using Azure’s low priority compute units because we were able to get more ram for a lower price. Specifically we used this one: 
 
-![Standard_NC12s_v3](https://i.imgur.com/KZVWUEB.png)
+![Standard_NC12s_v3](https://everything.azureedge.net/blog/KZVWUEB.png)
 
 Training costs a lot. Can you see where in this graph we train our models?  
 
-![](https://i.imgur.com/kZl2j5g.png)
+![](https://everything.azureedge.net/blog/kZl2j5g.png)
 
 The past 2 months we have actually been over our $150 limit and had to spend our own money \**gasp*\*. Microsoft has successfully turned my freeloading around and made some money off me. Cheeky. 
 

@@ -21,7 +21,7 @@ comments: false
 
 Welcome back to Asia!!!!!!!!!! 
 
-{{< rawhtml >}} <img src="https://i.imgur.com/ksxEcof.jpg" class="floatingright"/> {{< /rawhtml >}}   
+{{< rawhtml >}} <img src="https://everything.azureedge.net/blog/ksxEcof.jpg" class="floatingright"/> {{< /rawhtml >}}   
    
 After not knowing whether we were going to make it to Thailand for a couple weeks we finally made it. It only took like 17 covid tests, 52 emails back and forth with the Thai consulate, and four changed plane tickets. Not bad. After all that we have been rewarded with the luxury of staying in a small quarantine hotel room for 16 days.
 
@@ -52,29 +52,29 @@ We can get through eight more days. Looking out the window at mopeds zooming thr
 
 -Sam
 
-![](https://i.imgur.com/IEgZ4z4.jpg)
+![](https://everything.azureedge.net/blog/IEgZ4z4.jpg)
 We got to go outside for our covid test on day 5! Best 15 minutes ever!
 
-![](https://i.imgur.com/xWYcNEl.jpg)
+![](https://everything.azureedge.net/blog/xWYcNEl.jpg)
 Some gross food
 
-![](https://i.imgur.com/PmpZOMz.jpg)
+![](https://everything.azureedge.net/blog/PmpZOMz.jpg)
 Some decent food
 
-![](https://i.imgur.com/mv9qwFb.jpg)
+![](https://everything.azureedge.net/blog/mv9qwFb.jpg)
 The broom we use to sweep everyday. Seriously, how does the dust get in here?
 
-![](https://i.imgur.com/rCAHgv2.jpg)
+![](https://everything.azureedge.net/blog/rCAHgv2.jpg)
 Notice the lack of a shower curtain. Idk why I miss shower curtains so much.
 
-![](https://i.imgur.com/OmiaMK8.jpg)
+![](https://everything.azureedge.net/blog/OmiaMK8.jpg)
 Bum gun
 
-![](https://i.imgur.com/yZOxbzq.jpg)
+![](https://everything.azureedge.net/blog/yZOxbzq.jpg)
 The view across the way. I got lucky that those naked dudes weren't out when I took this. You got lucky too!
 
-![](https://i.imgur.com/wAlPurb.jpg)
+![](https://everything.azureedge.net/blog/wAlPurb.jpg)
 We set up a hammock for some chill times
 
-![](https://i.imgur.com/aZEeZ2a.jpg)
+![](https://everything.azureedge.net/blog/aZEeZ2a.jpg)
 Hello friends

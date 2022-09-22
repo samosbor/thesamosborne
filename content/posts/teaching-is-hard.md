@@ -59,43 +59,43 @@ Thailand is great. Teaching is great. I’m learning a lot and having a good tim
   
 <br/><br/>
 
-![](https://i.imgur.com/PkViFNd.jpg)
+![](https://everything.azureedge.net/blog/PkViFNd.jpg)
 
 These are supposed to be elephant ears lmao  
 
-![](https://i.imgur.com/yffQqIL.jpg)
+![](https://everything.azureedge.net/blog/yffQqIL.jpg)
 
 Very cute kids  
 
-![](https://i.imgur.com/zhTopQ6.jpg)  
+![](https://everything.azureedge.net/blog/zhTopQ6.jpg)  
 
 The stickers flow at the Imperial School  
 
-![](https://i.imgur.com/oDn0e1R.jpg)  
+![](https://everything.azureedge.net/blog/oDn0e1R.jpg)  
 
 These kids love [Among Us](https://innersloth.com/gameAmongUs.php)  
 
-![](https://i.imgur.com/Tn5nUyK.jpg)  
+![](https://everything.azureedge.net/blog/Tn5nUyK.jpg)  
 
 We didn't have enough bikes on our first day so Kaitlyn hitched a ride  
 
-![](https://i.imgur.com/exznNLL.jpg)  
+![](https://everything.azureedge.net/blog/exznNLL.jpg)  
 
 A scene from our evening run  
 
-![](https://i.imgur.com/hpn6abt.jpg)  
+![](https://everything.azureedge.net/blog/hpn6abt.jpg)  
 
 We took a weekend trip to see this temple  
 
-![](https://i.imgur.com/ViXwWDE.jpg)  
+![](https://everything.azureedge.net/blog/ViXwWDE.jpg)  
 
 They call it the glass temple because of all the ceramic shards embedded in the walls  
 
-![](https://i.imgur.com/LB4BrcN.jpg)  
+![](https://everything.azureedge.net/blog/LB4BrcN.jpg)  
 
 We stayed in some fun little tents  
 
-![](https://i.imgur.com/NxI6km5.jpg)
+![](https://everything.azureedge.net/blog/NxI6km5.jpg)
 
 Hello friends  
 

@@ -7,7 +7,7 @@ aliases: []
 tags: ["blog", "personal", "thailand"]
 author: "Sam Osborne"
 cover:
-  image: "https://i.imgur.com/PiHGxWs.jpg"
+  image: "https://everything.azureedge.net/blog/PiHGxWs.jpg"
 ---
 
 ### Intro to Asia  
@@ -30,7 +30,7 @@ One time I needed help soldering a little pollution sensor that I was building, 
 
 {{< rawhtml >}}
   <video width="100%" height="400" autoplay loop>
-    <source src="https://i.imgur.com/Er8PsQf.mp4" type="video/mp4">
+    <source src="https://everything.azureedge.net/blog/Er8PsQf.mp4" type="video/mp4">
   Your browser does not support the video tag.
   </video>
 {{< /rawhtml >}} 
@@ -48,7 +48,7 @@ One of the earlier days, Kaitlyn and I were jogging around the soccer pitch on t
 
 When I told them we were leaving, he and his friends got me some going away Phichit United merch. I never learned his name until that last day when I told him to add me on Facebook, but we were friends nonetheless.  
 
-![](https://i.imgur.com/MjnJyEq.jpg)  
+![](https://everything.azureedge.net/blog/MjnJyEq.jpg)  
 
 #### Little Tennis Kids  
 
@@ -58,11 +58,11 @@ Picha, Author, Prab, Pran, and their parents became our best friends in Thailand
 
 We will miss our friends we made. It was hard to say goodbye. But it felt good to know that we could make such strong friendships in such a short amount of time, even across language and cultural barriers.  
 
-![](https://i.imgur.com/PiHGxWs.jpg)
+![](https://everything.azureedge.net/blog/PiHGxWs.jpg)
 
-![](https://i.imgur.com/ivVzxHX.jpg)
+![](https://everything.azureedge.net/blog/ivVzxHX.jpg)
 
-![](https://i.imgur.com/VqXAZXn.jpg)  
+![](https://everything.azureedge.net/blog/VqXAZXn.jpg)  
 
 ### Saying Goodbye  
 
@@ -74,7 +74,7 @@ This blog post is a small step in my mourning process. Thank you for reading and
 
 {{< subscribe-personal >}}
 
-![](https://i.imgur.com/Rvt2Kjw.jpg)
+![](https://everything.azureedge.net/blog/Rvt2Kjw.jpg)
 
 Hello friends  
-![](https://i.imgur.com/gPUvNYR.jpg)
+![](https://everything.azureedge.net/blog/gPUvNYR.jpg)
