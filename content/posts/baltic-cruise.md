@@ -111,7 +111,7 @@ Here is a creeper shot I took off some hype sneakers.
 
 I’m trying to not judge all of Germany based on Berlin. If I did that then I would think Germany has no good soccer teams. Munich, Dortmund, Frankfurt, and Leipzig all seem to care more about soccer than Berlin and have much better club teams, so maybe Berlin is not representative of the country as a whole. 
 
-Berlin is cool though. There is a ton of history, good and bad and hard to swallow. It’s all on full display. We went to the Brandenburg Gate where which allowed free passage for West and East Berliners until the Berlin Wall went up in 1961. We went to checkpoint Charlie where the post WW2 American and Soviet parts of Berlin met. We walked through the Holocaust Memorial which is now renamed as the Memorial to the Murdered Jews of Europe. Very explicit. We went to the Jewish History Museum which captured some of the emotion of the Holocaust as well as demystified Jewish beliefs and culture. We walked along the remaining length of the Berlin Wall, which until 33 years ago, divided the city between Soviet and Western control. 
+Berlin is cool though. There is a ton of history, good and bad and hard to swallow. It’s all on full display. We went to the Brandenburg Gate which allowed free passage for West and East Berliners until the Berlin Wall went up in 1961. We went to Checkpoint Charlie where the post WW2 American and Soviet parts of Berlin met. We walked through the Holocaust Memorial which is now renamed as the Memorial to the Murdered Jews of Europe. Very explicit. We went to the Jewish History Museum which captured some of the emotion of the Holocaust as well as demystified Jewish beliefs and culture. We walked along the remaining length of the Berlin Wall, which until 33 years ago, divided the city between Soviet and Western control. 
 
 ![](https://everything.azureedge.net/blog/brandengate.jpg) 
 ![](https://everything.azureedge.net/blog/jewsmonument.jpg) 
@@ -137,7 +137,9 @@ I probably didn’t see many native Berliners so I can’t really judge the fash
 
 We are on a cruise while Covid is still not totally gone so I'm not sure how normal things are here. But its awesome. We got upgraded to a window view room on the side of the ship.
 
-![](https://everything.azureedge.net/blog/boatview.jpg) 
+![](https://everything.azureedge.net/blog/boatview.jpg)  
+
+Not shown: infinite food
 
 ### Amsterdam, Netherlands
 
@@ -148,6 +150,8 @@ My feet are tired from walking so much. My back is tired from walking through th
 
 The Red Light district is fascinating. 
 
+
+This blog post has been sitting here for so long so im gonna leave it here for now thanks for reading bye!
 
 
 
