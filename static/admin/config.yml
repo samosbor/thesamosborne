@@ -1,0 +1,126 @@
+backend:
+  name: github
+  repo: samosbor/thesamosborne
+  branch: master
+  commit_messages:
+    create: "Create post '{{slug}}'"
+    update: "Update post '{{slug}}'"
+    delete: "Delete post '{{slug}}'"
+
+site_url: https://www.thesamosborne.com
+display_url: https://www.thesamosborne.com
+logo:
+  src: /apple-touch-icon.png
+  show_in_header: true
+
+media_library:
+  name: cloudinary
+  config:
+    cloud_name: dyomsae3
+    api_key: "894714579542932"
+
+collections:
+  - name: posts
+    label: Posts
+    label_singular: Post
+    folder: content/posts
+    create: true
+    delete: false
+    extension: md
+    format: yaml-frontmatter
+    slug: "{{slug}}"
+    summary: "{{title}} - {{date}}"
+    sortable_fields: [date, title]
+    view_filters:
+      - label: Drafts
+        field: draft
+        pattern: true
+      - label: Published
+        field: draft
+        pattern: false
+    fields:
+      - label: Title
+        name: title
+        widget: string
+      - label: Publish date
+        name: date
+        widget: datetime
+        default: "{{now}}"
+        format: "YYYY-MM-DDTHH:mm:ssZ"
+      - label: Draft
+        name: draft
+        widget: boolean
+        default: false
+      - label: Tags
+        name: tags
+        widget: list
+        default: [blog]
+        required: false
+      - label: Cover image
+        name: cover
+        widget: object
+        collapsed: true
+        required: false
+        fields:
+          - label: Image
+            name: image
+            widget: image
+            required: false
+          - label: Alternative text
+            name: alt
+            widget: string
+            required: false
+          - label: Caption
+            name: caption
+            widget: string
+            required: false
+          - label: Image is relative to this post
+            name: relative
+            widget: boolean
+            default: false
+            required: false
+      - label: Content
+        name: body
+        widget: richtext
+        modes: [rich_text, raw]
+      - label: Author
+        name: author
+        widget: string
+        default: Sam Osborne
+        required: false
+      - label: URL aliases
+        name: aliases
+        widget: list
+        required: false
+        hint: "Add old URLs here when moving a post so existing links keep working."
+      - label: Weight
+        name: weight
+        widget: number
+        value_type: int
+        default: 1
+        required: false
+      - label: Show table of contents
+        name: showToc
+        widget: boolean
+        default: false
+        required: false
+      - label: Open table of contents by default
+        name: TocOpen
+        widget: boolean
+        default: false
+        required: false
+      - label: Hide post metadata
+        name: hidemeta
+        widget: boolean
+        default: false
+        required: false
+      - label: Disable share buttons
+        name: disableShare
+        widget: boolean
+        default: false
+        required: false
+      - label: Enable comments
+        name: comments
+        widget: boolean
+        default: false
+        required: false

@@ -8,7 +8,6 @@ tags: ["blog", "personal", "thailand"]
 author: "Sam Osborne"
 showToc: false
 TocOpen: false
-draft: false
 hidemeta: false
 disableShare: false
 cover:

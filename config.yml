@@ -1,6 +1,7 @@
 baseURL: "https://www.thesamosborne.com/"
 title: thesamosborne
-paginate: 10
+pagination:
+  pagerSize: 10
 theme: hugo-PaperMod
 
 enableRobotsTXT: true
@@ -8,7 +9,10 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 
-googleAnalytics: UA-185393343-1
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
 
 minify:
   disableXML: true
@@ -69,7 +73,3 @@ params:
       url: "https://www.linkedin.com/in/thesamosborne/"
     - name: github
       url: "https://github.com/samosbor"
-
-  analytics:
-    google:
-      SiteVerificationTag: "UA-185393343-1"
